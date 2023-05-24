@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: final_Project_Birds, Configuration: Debug Any CPU ------
+1>C:\Users\rashe\Source\Repos\Alabar10\final_Project_Birds\final_Project_Birds\ExcelManager.cs(24,31,24,49): error CS1061: 'UriBuilder' does not contain a definition for 'UnescapeDataString' and no accessible extension method 'UnescapeDataString' accepting a first argument of type 'UriBuilder' could be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\rashe\Source\Repos\Alabar10\final_Project_Birds\final_Project_Birds\ExcelManager.cs(14,24,14,32): warning CS0169: The field 'ExcelManager.filepath' is never used
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
